@@ -84,6 +84,12 @@ The mobile application will help the user to plan his visit to a particular plac
 
 ## Project roadmap
 
+* The Sarathi App can be integrated with data from Government Of India Arogya Setu App, and the risk score of the user can be calculated before allocating a POI.
+
+* GPS data will be available and hence a risk score can be generated for a person based on his travel history to containment zones or hot spots. This score will be very useful for security of other visitors. Based on the reservation for a time slot the total risk score of a POI can be generated.
+
+We plan to implement the below persona flows in the upcoming iterations:
+
 **Government Authority Registration**
 
 ![Roadmap](images/GovtAuthorityRegistration.png)
