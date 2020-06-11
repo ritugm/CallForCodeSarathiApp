@@ -1,6 +1,6 @@
 # Sarathi - We help you plan your visits during the pandemic!
 
-![Sarathi App logo ](images/logo.png)
+![Sarathi App logo ](images/Logo.png)
 
 ## Contents
 
