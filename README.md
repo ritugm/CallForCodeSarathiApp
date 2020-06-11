@@ -32,7 +32,7 @@ The mobile application will help the user to plan his visit to a particular plac
 ![Architecture ](images/Architecture.png)
 
 
-## Project description
+## Project Flow
 
 User Registration and login:
 
