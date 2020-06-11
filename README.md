@@ -36,7 +36,7 @@ The mobile application will help the user to plan his visit to a particular plac
 
 ## Long description
 
-Users of this app are
+**Users of this app are**
 
 1. User - Citizens
 
@@ -44,14 +44,14 @@ Users of this app are
 
 1. POI Owner - QR code for Walk-ins
 
-Assumptions
+**Assumptions**
 
 1. GPS / Mobile Data will be enabled
 
 1. POI Owner will decide based on the regulations from the government on the footfall allowed and will keep this data updated in Sarathi App based on revised government regulations.
 (For example, retail floor area of 10,00,000 sq. ft. mall can have at the max 15000 people at a given time)
 
-Best Case Scenario
+**Best Case Scenario**
 
 1. User will register in App (provide contact details, personal details like age, gender, etc)
 
