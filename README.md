@@ -5,11 +5,11 @@
 ## Contents
 
 1. [Short description](#short-description)
-1. [Demo video](#demo-video)
 1. [Long description](#long-description)
 1. [Project description](#project-flow)
 1. [Project roadmap](#project-roadmap)
 1. [The architecture](#the-architecture)
+1. [Demo video](#demo-video)
 
 ## Short description
 
@@ -25,10 +25,6 @@ We can have a mobile application to achieve the crowd distribution and also unde
 
 The mobile application will help the user to plan his visit to a particular place if in case there is small crowd. But if there is large crowd gathering in that particular place then the app will help them to plan for an alternate place by recommending suitable option so that the social distancing is followed strictly.
 
-## Demo video
-
-[![Watch the video]()
-
 ## Long description
 
 **Personas of this app are**
@@ -39,15 +35,9 @@ The mobile application will help the user to plan his visit to a particular plac
 
 1. POI Owner - QR code for Walk-ins
 
-**WHO**, *WHAT*, ```WOW```
+### WHO, WHAT, WOW
 
-[HILLS](#short-description)
-
-**A user** [can](#short-description) *register, get visibility and crowd heat map, give safety ratings to the places of interest (POI) (shopping malls, religious establishments, shops, restaurants etc), in a locality, book a suitable time slot in the POI of choice* ```to visit with friends and family, ```[on an](#short-description) ```intuitive mobile which helps  rekindle social interactions maintaining health regulations of occupancy in public places.```
-
-**A POI Owner** [can](#short-description) *monitor (n) number of visitors, identify visitors who have overstepped the time slot* [and](#short-description) ```initiate steps to provide them the right available alternatives without delay and report back to the government appointed authority about regular offenders.```
-
-**A Government administrative appointee** [can](#short-description) *rapidly deploy the system to augment the stressed mainstream POI infrastructure in the crisis situation* ```aiding returning to normalcy post lockdown while maintaining necessary health precautions.```
+![Sarathi App logo ](images/Hills.png)
 
 **Scores:**
 
@@ -121,6 +111,8 @@ We plan to implement the below persona flows in the upcoming iterations:
 ## The architecture
 
 ![Architecture ](images/Architecture.png)
+
+## Demo video
 
 
 List of contributors who participated in this project.
