@@ -31,9 +31,9 @@ The mobile application will help the user to plan his visit to a particular plac
 
 1. User - Citizens
 
-1. POI (Point of Interests) Admin
+1. POI (Point of Interests) Owner
 
-1. POI Owner - QR code for Walk-ins
+1. Government administrative appointee
 
 ### WHO, WHAT, WOW
 
