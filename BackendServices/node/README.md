@@ -3,7 +3,7 @@ Sarathi APP
 
 We have 4 services:
 
-1. Register: User registers with his name, 
+1. Register: User registers with his name, email and password.
 
 2. Login: User will login with his credentials
 
