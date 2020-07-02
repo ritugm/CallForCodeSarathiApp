@@ -5,11 +5,11 @@
 ## Contents
 
 1. [Short description](#short-description)
+1. [Demo video](#demo-video)
 1. [Long description](#long-description)
 1. [Project description](#project-flow)
 1. [Project roadmap](#project-roadmap)
 1. [The architecture](#the-architecture)
-1. [Demo video](#demo-video)
 
 ## Short description
 
@@ -24,6 +24,10 @@ We can have a mobile application to achieve the crowd distribution and also unde
 ### The idea
 
 The mobile application will help the user to plan his visit to a particular place if in case there is small crowd. But if there is large crowd gathering in that particular place then the app will help them to plan for an alternate place by recommending suitable option so that the social distancing is followed strictly.
+
+## Demo video
+
+[![Watch the video](images/Teampic.png)](https://youtu.be/1WgeEmkq03E)
 
 ## Long description
 
@@ -107,13 +111,9 @@ We plan to implement the below persona flows in the upcoming iterations:
 
 ![Roadmap](images/GovtAuthFlow.png)
 
-
 ## The architecture
 
 ![Architecture ](images/Architecture.png)
-
-## Demo video
-
 
 List of contributors who participated in this project.
 
