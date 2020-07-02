@@ -28,7 +28,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="40dp"
                 android:layout_marginTop="85dp"
-                android:text="Ganesh Temple Indira Nagar\n\n Details ..."
+                android:text="Ganesh Temple"
                 android:textSize="18dp"
                 android:textStyle="bold"
 

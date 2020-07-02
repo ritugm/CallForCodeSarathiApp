@@ -34,7 +34,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Mr. Sham"
+                        android:text="Mr. Test"
                         android:layout_marginLeft="20dp"
                         android:textSize="17dp"
                         android:textColor="@color/input_register_bg"
@@ -108,9 +108,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginStart="15dp"
-                        android:layout_marginLeft="135dp"
-                        android:text="Temples"
+                        android:text="Religious places"
                         android:textSize="16sp" />
                 </LinearLayout>
 
